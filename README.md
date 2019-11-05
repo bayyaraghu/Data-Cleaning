@@ -16,6 +16,28 @@ Cleaning data
 7. Column types can signal unexpected data values
 
 ------ Unclean Data ------
+
 1. Column name inconsistencies
 2. Missing Data
 3. Some name or text in french
+
+-----Exploratory Data Analysis --------
+
+Frequency Counts
+Count the number of unique values in out data
+
+------ Visual exploratory data analysis------
+
+Data visualization 
+1. Great way to spot outliers and obvious errors
+2. More than just looking for patterns
+3. plan data cleaning steps
+
+Summmary statistics using : df.describe()
+
+-----Bar plots and histograms ----
+
+1. Bar plots for discrete data counts
+2. Histograms for continuous data counts
+3. Look at frequencies
+
