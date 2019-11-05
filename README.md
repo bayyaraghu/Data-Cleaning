@@ -46,7 +46,9 @@ Summmary statistics using : df.describe()
 2. Min/Max
 3. 25th, 50th, 75th percentiles
 
+---- scatter plot ----
 
+file_csv.plot.scatter(x, y)
 
 
 
