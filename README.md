@@ -41,3 +41,15 @@ Summmary statistics using : df.describe()
 2. Histograms for continuous data counts
 3. Look at frequencies
 
+--- Box Plot -----
+1. Visualie basic summary statistics
+2. Min/Max
+3. 25th, 50th, 75th percentiles
+
+
+
+
+
+
+
+
