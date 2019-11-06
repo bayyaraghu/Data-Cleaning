@@ -1,0 +1,15 @@
+-------- TIDAY DATA ------------
+
+1. Tiday Data paper by Hadley Wickham, Phd
+2. Formalize the way we describe the shape of data
+3. Gives us a goal when formatting our data
+4. Standard way to organize data value within dataset
+
+Motivation for tidy data
+
+------ Principles of tidy data -------
+
+1. columns represent separate variables
+2. Rows represent individual observations
+3. Observational units form tables
+
