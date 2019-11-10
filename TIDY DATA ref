@@ -13,3 +13,29 @@ Motivation for tidy data
 2. Rows represent individual observations
 3. Observational units form tables
 
+-----Converting to tidy data -----------
+
+1. Better for reporting vs better for analysis
+2. Tidy data makes it easier to fix common data problems
+3. The data problem we are trying to fix
+   a. columns containing values, Insted of variables
+4. Solution : pd.melt()
+
+------Pivot : Un-melting data -------
+1. Opposite of melting
+2. In melting, we turned columns into rows
+3. Pivoting: turn unique values into separate columns
+4. Analysis friendly shape to reporting friendly shape
+5. Violates tidy principles : rows contain observations
+   a. Multiple variables stored in the same column
+   
+------ Pivot Table --------
+1. Has a parameter that specifies how to deal with duplicates values
+2. Example : can aggregate the duplicate values by taking their average.
+
+-----Beyond melt and pivot --------
+
+1. Melting and pivoting are basic tools
+2. Another common problem:
+   a. Columns contain multiple bits of information
+   

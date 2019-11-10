@@ -1,0 +1,6 @@
+----- Combining Data ------
+
+1. 5 Million row dataset may be broken into 5 saperate datasets
+2. Easier to store and share
+3. May have new data for each day
+4. Important to be able to combine then clean, or vice versa
