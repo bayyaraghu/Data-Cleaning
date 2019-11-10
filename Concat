@@ -6,3 +6,21 @@
 4. Important to be able to combine then clean, or vice versa
 
 ------- Finding and Concatenating Data ---------
+
+ ---concatenating many files ----
+ 
+ 1. Leverage python's features with data cleaning in pandas
+ 2. In order to concatenate DataFrame :
+    a. They must be in a list
+    b. Can individually load if there are a few datasets
+    c. But what if there are thousands?
+3. Solution  : glob function to find files based on a pattern
+
+------ Globbing ----------
+
+1. Pattern matching for file names
+2. Wildcars : *?
+   a. Any csv file : *.csv
+   b. Any single character: file_?.csv
+3. Return a list of file names
+4. Can use this list to load into seperate dataframes
