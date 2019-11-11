@@ -24,3 +24,9 @@
    b. Any single character: file_?.csv
 3. Return a list of file names
 4. Can use this list to load into seperate dataframes
+
+------- Types of merges -----
+1. one-to-one
+2. Many-to-one / one-to-many
+3. Many-to-Many
+All Use the same function, only difference is the DataFrame you are merging
