@@ -27,6 +27,12 @@
 3. This lets us use the pattern over and over again
 4. Useful since we want to match values down a column of values
 
+------ Fill missing values with a test statistic------
+
+1. Careful when using test statistics to fill
+2. Have to make sure the value you are filling in makes sense
+3. Median is a better statistic in the presence of outliners
+
 
 
 
