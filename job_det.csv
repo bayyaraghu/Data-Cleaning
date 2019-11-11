@@ -1,0 +1,6 @@
+Total bill,tip,sex,smoker ,day ,time ,size
+16.99,1.01,Female,No,Sun,Dinner,2.00
+NaN,1.66,Male,No,Mon,Dinner,3.00
+21.01,3.5,Male,No,Tue,Dinner,3.00
+23.68,NaN,Male,No,Wed,Dinner,2.00
+24.59,3.61,Male,NaN,Thu,NaN,4.00
