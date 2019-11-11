@@ -1,0 +1,5 @@
+--- Convering Data types ---
+--- Categorical Data ----
+1. Converting categorical data to 'category' dtype:
+   a. can make the Dataframe samller in memory
+   b. can make them be utilized by other python libraries for analysis
