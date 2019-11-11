@@ -3,3 +3,31 @@
 1. Converting categorical data to 'category' dtype:
    a. can make the Dataframe samller in memory
    b. can make them be utilized by other python libraries for analysis
+   
+----- String Manipulation ------
+1. Much of data clearning involves string manipulation
+   a. Most of the worlds data is unstructured text
+2. Also have to do string manipulation to make datasets consistent with one another
+
+---- Validate Values ---- Example match
+1. 17 = \d*,  2. $17 = \$\d* , 3. $17.89 = \$\d*\.\d*, 4. $17.89 = \$\d*\.\d{2}
+
+---- String Manipulation -----
+1. Many build-in and external libraries
+2. 're' library for regular expressions
+    a. A formal way of specifying a pattern
+    b. Sequence of characters
+3. Pattern matching
+    a. similar to globbing
+    
+------ Using Regular expressions -------
+
+1. Complile the pattern
+2. Use the compiled pattern to match values
+3. This lets us use the pattern over and over again
+4. Useful since we want to match values down a column of values
+
+
+
+
+
